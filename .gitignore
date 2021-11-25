@@ -1,0 +1,4 @@
+# git ignore file, contains only project specific
+
+# maven
+target/
